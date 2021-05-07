@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Israel, upcoming Java developer and Front-end Engineer. 
-- 👀 I’m interested in solving problems, and I mean this literally. 
+- 👋 Hi, I’m Israel, I'm a Java developer and Front-end Engineer. 
+- 👀 I’m interested in building lucrative Applicatioin Softwares.
 - 🌱 I’m currently mastering Java and Front-end web development. 
 - 💞️ I’m looking to collaborate on Java-based projects and Front-end related projects. 
 - 📫 How to reach me: Email: Dkingisreal@gmail.com, Twitter: @izra_elll
