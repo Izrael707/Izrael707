@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems, and I mean this literally. 
 - 🌱 I’m currently mastering Java and Front-end web development. 
 - 💞️ I’m looking to collaborate on Java-based projects and Front-end related projects. 
-- 📫 How to reach me: Email: Dkingisreal@gmail.com, Phone: 09030647141, Twitter: @izra_elll
+- 📫 How to reach me: Email: Dkingisreal@gmail.com, Twitter: @izra_elll
 
 
 <!---
