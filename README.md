@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Israel, I'm a Python developer and Fullstack Developer. 
+- 👋 Hi, I’m Israel, I'm a Front-end Developer. 
 - 👀 I’m interested in building lucrative Web-applications.
-- 🌱 I’m currently mastering Python and Fullstack web development. 
-- 💞️ I’m looking to collaborate on Python-based projects and Fullstack web related projects. 
+- 🌱 I’m currently mastering Javascript and ReactJs. 
+- 💞️ I’m looking to collaborate on Javascript-based and Frontend related projects. 
 - 📫 How to reach me: Email: Dkingisreal@outlook.com, Twitter: @tonobuende
 
 
