@@ -2,7 +2,7 @@
 - 👀 I’m interested in building lucrative Web-applications.
 - 🌱 I’m currently mastering Javascript and ReactJs. 
 - 💞️ I’m looking to collaborate on Javascript-based and Frontend related projects. 
-- 📫 How to reach me: Email: Dkingisreal@outlook.com, Twitter: @tonobuende
+- 📫 How to reach me: Email: Dkingisreal@gmail.com, Twitter: @tonobuende
 
 
 <!---
