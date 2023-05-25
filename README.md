@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Israel, I'm a Front-end Developer(Javscript). 
-- 👀 I’m interested in building lucrative Web-applications.
-- 🌱 I’m currently mastering NextJS and ReactJs. 
-- 💞️ I’m looking to collaborate on Javascript-based and Frontend related projects. 
+- 👋 Hi, I’m Israel, I'm a Flutter/Web developer(React.js). 
+- 👀 I’m interested in building lucrative Mobile and Web-applications.
+- 🌱 I’m currently mastering Flutter UI Framework.
+- 💞️ I’m looking to collaborate on Flutter-based Application projects. 
 - 📫 How to reach me: Email: Dkingisreal@gmail.com, Twitter: @tonobuende
 
 
