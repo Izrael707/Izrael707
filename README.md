@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Israel, I'm a Flutter/Web developer(React.js). 
-- 👀 I’m interested in building lucrative Mobile and Web-applications.
-- 🌱 I’m currently mastering Flutter UI Framework.
-- 💞️ I’m looking to collaborate on Flutter-based Application projects. 
+I'm a passionate React developer with expertise in frontend web development. Dedicated to creating intuitive user interfaces and delightful user experiences. Strong problem-solving skills and a continuous learner in the ever-evolving world of technology.
 - 📫 How to reach me: Email: Dkingisreal@gmail.com, Twitter: @tonobuende
 
 
