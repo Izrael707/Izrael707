@@ -1,4 +1,4 @@
-I'm a passionate React developer with expertise in frontend web development. Dedicated to creating intuitive user interfaces and delightful user experiences. Strong problem-solving skills and a continuous learner in the ever-evolving world of technology.
+I'm a passionate React developer with expertise in frontend web development and currently mastering React-Native. Dedicated to creating intuitive user interfaces and delightful user experiences.
 - 📫 How to reach me: Email: Dkingisreal@gmail.com
 
 
