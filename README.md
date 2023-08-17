@@ -1,4 +1,4 @@
-I'm a passionate React developer with expertise in frontend web development and currently mastering React-Native. Dedicated to creating intuitive user interfaces and delightful user experiences.
+I'm a passionate software developer with expertise in frontend web development using React.js, Tailwind, and TypeScript/JavaScript, also currently mastering Flutter/Dart for mobile applications development.
 - 📫 How to reach me: Email: Dkingisreal@gmail.com
 
 
