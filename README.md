@@ -1,4 +1,4 @@
-I'm a passionate software developer with expertise in frontend web development using React.js, Tailwind, and TypeScript/JavaScript, also currently mastering Flutter/Dart for mobile applications development.
+Front-end developer - React.js/TypeScript.
 - 📫 How to reach me: Email: Dkingisreal@gmail.com
 
 
