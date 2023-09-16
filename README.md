@@ -11,8 +11,7 @@ I fell in love with websites and mobile development. I'm open to collaborate on 
 
 # CONTACT INFO
 📫 How to reach me:
-- Email: Dkingisreal@gmail.com
-- WhatsApp: 09030647141 
+- Email: Dkingisreal@gmail.com 
 
 
 <!---
