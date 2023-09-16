@@ -1,6 +1,3 @@
-# Official Name
-Ikechukwu Israel
-
 # INTRO
 I fell in love with websites and mobile development. I'm open to collaborate on projects - no discrimination.
 
