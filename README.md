@@ -1,5 +1,21 @@
-Front-end developer - React.js/TypeScript.
-- 📫 How to reach me: Email: Dkingisreal@gmail.com
+# Official Name
+Ikechukwu Israel
+
+# INTRO
+I fell in love with websites and mobile development.
+
+# STACK
+React.js
+Next.js
+React Native
+Node.js
+Flutter
+(adding more)...
+
+# CONTACT INFO
+📫 How to reach me:
+Email: Dkingisreal@gmail.com
+WhatsApp: 09030647141 
 
 
 <!---
