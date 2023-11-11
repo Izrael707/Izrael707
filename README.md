@@ -1,17 +1,16 @@
 # INTRO
-I fell in love with websites and mobile development. I'm open to collaborate on projects - no discrimination.
+I fell in love with websites and mobile development. I'm open to collaborate on projects.
 
 # STACK
-- React.js
-- Next.js
-- React Native
-- Node.js
-- Flutter
+React.js
+React Native
+Node JS
+Nest JS
 (adding more)...
 
 # CONTACT INFO
 📫 How to reach me:
-- Email: Dkingisreal@gmail.com 
+Email: Dkingisreal@gmail.com
 
 
 <!---
