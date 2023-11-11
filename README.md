@@ -2,10 +2,10 @@
 I fell in love with websites and mobile development. I'm open to collaborate on projects.
 
 # STACK
-React.js
-React Native
-Node JS
-Nest JS
+React.js,
+React Native,
+Node JS,
+Nest JS,
 (adding more)...
 
 # CONTACT INFO
