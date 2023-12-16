@@ -1,9 +1,16 @@
 # INTRO
-I fell in love with websites and mobile development. I'm open to collaborate on projects.
+I fell in love with websites.
 
 # STACK
+HTML/CSS,
+Bootstrap,
+TailwindCSS,
+Javascript/Typescript,
 React.js,
-React Native,
+Redux,
+Next JS,
+Express JS,
+MongoDB,
 Node JS,
 Nest JS,
 (adding more)...
