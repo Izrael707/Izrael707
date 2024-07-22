@@ -3,17 +3,16 @@ I fell in love with websites.
 
 # STACK
 HTML/CSS,
-Bootstrap,
+SASS/SCSS,
 TailwindCSS,
-Javascript/Typescript,
+Javascript,
+Typescript,
 React.js,
-Redux,
-Next JS,
+Vue 3,
 Express JS,
-MongoDB,
 Node JS,
-Nest JS,
-(adding more)...
+MongoDB,
+PostGres
 
 # CONTACT INFO
 📫 How to reach me:
