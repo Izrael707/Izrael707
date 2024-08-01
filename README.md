@@ -3,16 +3,14 @@ I fell in love with websites.
 
 # STACK
 HTML/CSS,
-SASS/SCSS,
+SCSS,
 TailwindCSS,
-Javascript,
-Typescript,
-React.js,
-Vue 3,
-Express JS,
-Node JS,
+Javascript/Typescript,
+React JS/Next JS,
+Vue JS/Nuxt JS
+Node JS/Express JS/Nest JS
 MongoDB,
-PostGres
+PostGres.
 
 # CONTACT INFO
 📫 How to reach me:
